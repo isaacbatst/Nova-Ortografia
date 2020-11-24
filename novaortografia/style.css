@@ -1,0 +1,35 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 15/12/2017, 10:47:35
+    Author     : isaac
+*/
+.erro{color: red;} 
+.sucesso{color: green;}
+table{
+    border-collapse: collapse; 
+    margin-left:auto; 
+    margin-right:auto;
+}
+td, th {
+    border: 1px solid #dddddd;
+    text-align: center;
+    padding: 8px;
+}
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
+body{
+    text-align: center
+}
+
+.logintable{
+    margin-left:40%; 
+    margin-right:40%;
+    border-width: 2px;
+    border-style: solid;
+    
+}
